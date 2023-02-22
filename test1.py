@@ -198,4 +198,5 @@ class __xxx__:
                     ok.append(wrt)
                     open('MAHIN_OK.txt' , 'a').write('%s\n' % wrt)
                     self.follow(session,coki)
-                    break             
+                                 
+sarfraz()
